@@ -1,0 +1,593 @@
+﻿"id","Name","gender_id","birth_year","death_year","data_source_id","religion_id"
+23,William Aldam,1,1813,1890,1,1
+27,S  Stafford Allen,1,1840,1870,1,1
+80,Edward Backhouse,1,1808,1879,1,1
+81,James (1) Backhouse,1,1794,1869,1,1
+151,James Bell,1,1818,1872,1,1
+249,Antonio Brady,1,1811,1881,1,1
+303,William Bull,1,1828,1902,1,1
+322,Charles Buxton,1,1823,1871,1,1
+403,Henry Christy,1,1810,1865,1,1
+419,William Clay,1,1791,1869,1,1
+448,x Collier,1,NA,NA,1,1
+503,Henry Crowley,1,NA,1887,1,1
+523,David Dale,1,1829,1906,1,1
+600,James T J Doyle,1,NA,NA,1,1
+730,Robert Nicholas Fowler,1,1828,1891,1,1
+731,William Fowler,1,NA,NA,1,1
+732,Charles Henry Fox,1,NA,NA,1,1
+776,George Stacey Gibson,1,1818,1883,1,1
+853,John Henry Gurney,1,1819,1890,1,1
+967,Thomas (1) Hodgkin,1,1798,1866,1,1
+979,William Holmes,1,NA,NA,1,1
+1021,Jonathan Hutchinson,1,1828,1913,1,1
+1207,Joseph Lister,1,1827,1912,1,1
+1216,William Horton Lloyd,1,NA,NA,1,1
+1725,J Robinson,1,NA,NA,1,1
+1744,John Ross,1,NA,NA,1,1
+2108,E T Wakefield,1,NA,NA,1,1
+2208,James Wilson,1,NA,NA,1,1
+2211,William Wilson,1,1785,1868,1,1
+2233,William Spicer Wood,1,NA,1902,1,1
+2261,Arthur Albright,,NA,NA,3,1
+2262,Rachel Albright,,NA,NA,3,1
+2263,William Albright,,NA,NA,3,1
+2264,William Jun Aldam,,NA,NA,3,1
+2265,Frederick Alexander,,NA,NA,3,1
+2266,Samuel Allen,,NA,NA,3,1
+2268,John Arch,,NA,NA,3,1
+2270,R Arthington,,NA,NA,3,1
+2271,R Jun Arthington,,NA,NA,3,1
+2273,C Ashby,,NA,NA,3,1
+2274,T Jun Ashby,,NA,NA,3,1
+2275,Thomas Ashby,,NA,NA,3,1
+2276,Thomas Jun Ashby,,NA,NA,3,1
+2277,Catherine Backhouse,,NA,NA,3,1
+2280,Jonathan Backhouse,,NA,NA,3,1
+2282,S Baker,,NA,NA,3,1
+2285,Robert Barclay,,NA,NA,3,1
+2286,Richard Barrington,,NA,NA,3,1
+2288,Edward Beck,,NA,NA,3,1
+2289,Eliza Bell,,NA,NA,3,1
+2290,Frederick J Bell,,NA,NA,3,1
+2291,S S Bell,,NA,NA,3,1
+2292,Samuel Bewley,,NA,NA,3,1
+2293,x Biffin,,NA,NA,3,1
+2294,J Binyon,,NA,NA,3,1
+2295,E L Birkbeck,,NA,NA,3,1
+2296,H Birkbeck,,NA,NA,3,1
+2298,W Blaine,,NA,NA,3,1
+2299,Elizabeth Bowley,,NA,NA,3,1
+2300,Henry Brady,,NA,NA,3,1
+2301,Charles L Braithwaite,,NA,NA,3,1
+2302,L Braithwaite,,NA,NA,3,1
+2303,Isaac Brown,,NA,NA,3,1
+2304,Joshua Brown,,NA,NA,3,1
+2305,Lydia Brown,,NA,NA,3,1
+2306,Sarah Burgess,,NA,NA,3,1
+2307,Thomas Burgess,,NA,NA,3,1
+2309,Thomas Fowell Buxton,,NA,NA,3,1
+2310,W Catchpool,,NA,NA,3,1
+2311,x Charleton,,NA,NA,3,1
+2312,Samuel Clark,,NA,NA,3,1
+2313,W Clemes,,NA,NA,3,1
+2314,C Clothier,,NA,NA,3,1
+2315,Joseph Cooper,,NA,NA,3,1
+2316,George Crosfield,,NA,NA,3,1
+2317,Joseph Crosland,,NA,NA,3,1
+2318,A Crowley,,NA,NA,3,1
+2321,A Dale,,NA,NA,3,1
+2322,Elizabeth S Dawes,,NA,NA,3,1
+2324,John Dodshon,,NA,NA,3,1
+2325,Daniel Doncaster,,NA,NA,3,1
+2326,Elizabeth Dyer,,NA,NA,3,1
+2327,R Dymond,,NA,NA,3,1
+2329,William Dyson,,NA,NA,3,1
+2331,A Ellis,,NA,NA,3,1
+2332,Thomas Evans,,NA,NA,3,1
+2333,Ann Everett,,NA,NA,3,1
+2334,Joseph Farden,,NA,NA,3,1
+2335,John Fell,,NA,NA,3,1
+2336,Mary Fell,,NA,NA,3,1
+2337,S H Fisher,,NA,NA,3,1
+2338,Caleb Fletcher,,NA,NA,3,1
+2339,Martha Fletcher,,NA,NA,3,1
+2340,John Ford,,NA,NA,3,1
+2341,George Fox,,NA,NA,3,1
+2342,Henry Fox,,NA,NA,3,1
+2344,Robert Were Fox,,NA,NA,3,1
+2346,x Fox,,NA,NA,3,1
+2347,W Gayner,,NA,NA,3,1
+2348,Joseph Gibbens,,NA,NA,3,1
+2349,Ann Gibson,,NA,NA,3,1
+2351,Francis Gibson,,NA,NA,3,1
+2352,F  E Gibson,,NA,NA,3,1
+2353,W G Gibson,,NA,NA,3,1
+2354,T Gill,,NA,NA,3,1
+2355,J Gillett,,NA,NA,3,1
+2356,John Gillett,,NA,NA,3,1
+2357,J Gilpin,,NA,NA,3,1
+2358,James Gingell,,NA,NA,3,1
+2359,John Good,,NA,NA,3,1
+2360,Josiah Grace,,NA,NA,3,1
+2361,Thomas Graham,,NA,NA,3,1
+2362,John Green,,NA,NA,3,1
+2363,T Gregory,,NA,NA,3,1
+2364,G Grimshaw,,NA,NA,3,1
+2365,x Hadfield,,NA,NA,3,1
+2366,Isaac Hadwen,,NA,NA,3,1
+2367,Robert Harding,,NA,NA,3,1
+2368,Henry Harris,,NA,NA,3,1
+2369,Lydia Harris,,NA,NA,3,1
+2370,Thomas Harvey,,NA,NA,3,1
+2371,George Head,,NA,NA,3,1
+2372,Sarah Head,,NA,NA,3,1
+2373,H Headley,,NA,NA,3,1
+2374,W Hewitson,,NA,NA,3,1
+2375,Charles Hicks,,NA,NA,3,1
+2376,Elizabeth Hills,,NA,NA,3,1
+2377,James Hills,,NA,NA,3,1
+2378,John Hills,,NA,NA,3,1
+2380,Gurney Hoare,,NA,NA,3,1
+2381,Maria Hooper,,NA,NA,3,1
+2382,J Hopkins,,NA,NA,3,1
+2383,Rebecca Hopkins,,NA,NA,3,1
+2384,Mary Horsnail,,NA,NA,3,1
+2385,Elizabeth Howard (2),,NA,NA,3,1
+2386,Elizabeth Howard,,NA,NA,3,1
+2387,Thomas Hughes,,NA,NA,3,1
+2388,Henry Hunt,,NA,NA,3,1
+2389,T Hunt,,NA,NA,3,1
+2390,J Hurnard,,NA,NA,3,1
+2391,John C Isaac,,NA,NA,3,1
+2392,John James,,NA,NA,3,1
+2393,Charles Janson,,NA,NA,3,1
+2394,Samuel Jesper,,NA,NA,3,1
+2395,Benjamin Jowett (2),,NA,NA,3,1
+2396,John Jun Jowett,,NA,NA,3,1
+2397,Robert Jowett (2),,NA,NA,3,1
+2398,John King,,NA,NA,3,1
+2399,Samuel King,,NA,NA,3,1
+2400,Thomas King,,NA,NA,3,1
+2401,Alfred Kitching,,NA,NA,3,1
+2402,C Knight,,NA,NA,3,1
+2403,John Lee,,NA,NA,3,1
+2404,x Leitch,,NA,NA,3,1
+2406,Thomas Letchmore,,NA,NA,3,1
+2407,Thomas x Jun Letchmore,,NA,NA,3,1
+2408,Thomas Letchworth,,NA,NA,3,1
+2409,Thomas Jun Letchworth,,NA,NA,3,1
+2410,Thomas x Jun Letchworth,,NA,NA,3,1
+2411,S Lloyd,,NA,NA,3,1
+2412,Edward Lucas,,NA,NA,3,1
+2413,Rebecca Lucas,,NA,NA,3,1
+2414,Thomas Marriage,,NA,NA,3,1
+2415,John Marsh,,NA,NA,3,1
+2416,R Marsh,,NA,NA,3,1
+2417,William Matthews,,NA,NA,3,1
+2418,William Mattravers,,NA,NA,3,1
+2419,D Miller,,NA,NA,3,1
+2420,John Morrison,,NA,NA,3,1
+2421,E Neave,,NA,NA,3,1
+2423,Mary Overend,,NA,NA,3,1
+2424,W J Palmer,,NA,NA,3,1
+2425,J Pears,,NA,NA,3,1
+2427,Edward Priestman (2),,NA,NA,3,1
+2428,John Priestman,,NA,NA,3,1
+2429,James Ransome,,NA,NA,3,1
+2430,Robert Ransome,,NA,NA,3,1
+2431,William Rathbone,,NA,NA,3,1
+2432,J Jun Read,,NA,NA,3,1
+2433,Edward Richardson,,NA,NA,3,1
+2434,Henry Richardson,,NA,NA,3,1
+2435,W Richardson,,NA,NA,3,1
+2437,R M Rickman,,NA,NA,3,1
+2438,S Rickman,,NA,NA,3,1
+2440,J Rooke,,NA,NA,3,1
+2441,Alfred Rosling,,NA,NA,3,1
+2442,John S Rowntree,,NA,NA,3,1
+2443,Joseph Rowntree,,NA,NA,3,1
+2444,Samuel Rundall,,NA,NA,3,1
+2445,Henry Russell,,NA,NA,3,1
+2446,Joseph Sams,,NA,NA,3,1
+2447,J A Sanders,,NA,NA,3,1
+2448,Mary Sansom,,NA,NA,3,1
+2449,Micheal Scatterthwaite,,NA,NA,3,1
+2450,S Scatterthwaite,,NA,NA,3,1
+2452,Benjamin Seebohm,,NA,NA,3,1
+2453,William Seebohm,,NA,NA,3,1
+2454,Charles Sessions,,NA,NA,3,1
+2457,Robert Simpson,,NA,NA,3,1
+2458,Alfred Smith,,NA,NA,3,1
+2459,Edward Smith,,NA,NA,3,1
+2460,Richard Smith,,NA,NA,3,1
+2461,Ann Snowden,,NA,NA,3,1
+2462,C Southall,,NA,NA,3,1
+2463,William Southall,,NA,NA,3,1
+2464,William Sparkes,,NA,NA,3,1
+2465,Joseph F Spence,,NA,NA,3,1
+2466,L Squire,,NA,NA,3,1
+2467,Mary Steevens,,NA,NA,3,1
+2468,Henry Sterry,,NA,NA,3,1
+2469,Richard Sterry,,NA,NA,3,1
+2470,John Stevens,,NA,NA,3,1
+2471,Joseph Sturge (Mrs),,NA,NA,3,1
+2472,Sarah Styles,,NA,NA,3,1
+2473,George N Tatham,,NA,NA,3,1
+2474,Mary Ann Tatham,,NA,NA,3,1
+2475,Edward Taylor,,NA,NA,3,1
+2476,F Taylor,,NA,NA,3,1
+2478,H Taylor,,NA,NA,3,1
+2479,A Thistlethwaite,,NA,NA,3,1
+2480,F J Thompson,,NA,NA,3,1
+2481,Josiah Thompson,,NA,NA,3,1
+2482,Thomas Thompson,,NA,NA,3,1
+2483,W Thompson,,NA,NA,3,1
+2485,George Treffry,,NA,NA,3,1
+2486,Frederick Tuckett,,NA,NA,3,1
+2488,W Tuke,,NA,NA,3,1
+2489,Thomas Turner,,NA,NA,3,1
+2490,James E Veale,,NA,NA,3,1
+2491,Jonathan Walker,,NA,NA,3,1
+2492,Ann Wallis,,NA,NA,3,1
+2493,John Warner,,NA,NA,3,1
+2494,Alfred Waterhouse,,NA,NA,3,1
+2495,Mary Waterhouse,,NA,NA,3,1
+2496,R Waterhouse,,NA,NA,3,1
+2497,Thomas Wedmore,,NA,NA,3,1
+2498,James Wells,,NA,NA,3,1
+2499,Daniel Wheeler,,NA,NA,3,1
+2500,W Whiting,,NA,NA,3,1
+2501,John Jun Williams,,NA,NA,3,1
+2502,W R Williams,,NA,NA,3,1
+2503,Charles Wilson,,NA,NA,3,1
+2504,George Wilson,,NA,NA,3,1
+2505,Isaac Wilson,,NA,NA,3,1
+2506,Joseph Wilson,,NA,NA,3,1
+2507,Rebecca Wilson,,NA,NA,3,1
+2508,H Wise,,NA,NA,3,1
+2509,William Woods,,NA,NA,3,1
+2510,Louisa Wright,,NA,NA,3,1
+2511,James Bowden,,NA,NA,2,1
+2512,William Nash,,NA,NA,2,1
+2513,Joseph Sturge,,NA,NA,2,1
+2514,William Jun Grimshaw,,NA,NA,2,1
+2515,Henry Knight,,NA,NA,3,1
+2516,Edward Paull,,NA,NA,2,1
+2517,Robert Jun Alsop,,NA,NA,2,1
+2518,Abram Rawlinson Barclay,,NA,NA,2,1
+2519,John Barclay,,NA,NA,2,1
+2520,Richard Barrett,,NA,NA,2,1
+2521,John Thomas Barry,,NA,NA,3,1
+2522,Peter Bedford,,NA,NA,3,1
+2523,John Bell,,NA,NA,3,1
+2524,Thomas Christy,,NA,NA,3,1
+2525,Samuel Darton,,NA,NA,2,1
+2526,Josiah Forster,,NA,NA,3,1
+2527,Robert Forster,,NA,NA,3,1
+2528,William Forster,,NA,NA,3,1
+2529,Joseph Talwin Foster,,NA,NA,2,1
+2530,John Hamilton,,NA,NA,2,1
+2532,Edwd Harris,,NA,NA,2,1
+2534,Geo Holmes,,NA,NA,2,1
+2535,Robert Howard,,NA,NA,3,1
+2536,John Kitching,,NA,NA,3,1
+2538,Joseph Neatby,,NA,NA,3,1
+2540,John Sanderson,,NA,NA,3,1
+2541,Joseph Shewell,,NA,NA,3,1
+2542,George Stacey,,NA,NA,2,1
+2543, Joseph Storrs,,NA,NA,2,1
+2544,John M Albright,,NA,NA,3,1
+2545,G W Alexander,,NA,NA,3,1
+2546,Henry Alexander,,NA,NA,3,1
+2547,R D Alexander,,NA,NA,3,1
+2548,Thomas Allis,,NA,NA,3,1
+2549,John D Appleton,,NA,NA,3,1
+2550,Caroline Armistead,,NA,NA,3,1
+2551,Joseph Armistead,,NA,NA,3,1
+2552,Edward Ash,,NA,NA,3,1
+2553,Alfred Backhouse,,NA,NA,3,1
+2554,Edmund Backhouse,,NA,NA,3,1
+2555,Edward Jun Backhouse,,NA,NA,3,1
+2557,James Jun Backhouse,,NA,NA,3,1
+2558,John Church Backhouse,,NA,NA,3,1
+2559,J E Baker,,NA,NA,3,1
+2560,James Baker,,NA,NA,3,1
+2561,A P Balkwill,,NA,NA,3,1
+2562,William Ball,,NA,NA,3,1
+2563,Eliza Barclay,,NA,NA,3,1
+2565,J Gurney Barclay,,NA,NA,3,1
+2567,Jonathan Barrett,,NA,NA,3,1
+2568,R Barrett,,NA,NA,3,1
+2569,R C Barrow,,NA,NA,3,1
+2571,S Barter,,NA,NA,3,1
+2572,John D Bassett,,NA,NA,3,1
+2573,John Baynes,,NA,NA,3,1
+2574,John Beaumont,,NA,NA,3,1
+2575,Rebecca Beaumont,,NA,NA,3,1
+2576,William Beaumont,,NA,NA,3,1
+2577,Samuel Beck,,NA,NA,3,1
+2578,Deborah Beesley,,NA,NA,3,1
+2579,Paul Bevan,,NA,NA,3,1
+2580,Robert Bevan,,NA,NA,3,1
+2581,Martha A Binyon,,NA,NA,3,1
+2582,Thomas Binyon,,NA,NA,3,1
+2583,S Birchall,,NA,NA,3,1
+2584,Thomas Blain,,NA,NA,3,1
+2585,J Blunsom,,NA,NA,3,1
+2586,W Bott,,NA,NA,3,1
+2587,Christopher Bowley,,NA,NA,3,1
+2588,W C Bowley,,NA,NA,3,1
+2589,Edwin Bracher,,NA,NA,3,1
+2590,James Bracher,,NA,NA,3,1
+2591,Lucy Bradshaw,,NA,NA,3,1
+2592,G S Brady,,NA,NA,3,1
+2593,Joseph B Braithwaite,,NA,NA,3,1
+2594,S Braithwaite,,NA,NA,3,1
+2595,Charles Brewin,,NA,NA,3,1
+2596,Robert Brewin,,NA,NA,3,1
+2597,Thomas Brewin,,NA,NA,3,1
+2598,William Brewin,,NA,NA,3,1
+2599,Francis Brown,,NA,NA,3,1
+2600,Gopsill Brown,,NA,NA,3,1
+2601,W W Brown,,NA,NA,3,1
+2602,J F Burgess,,NA,NA,3,1
+2603,Wilson Burgess,,NA,NA,3,1
+2604,Henry Burlingham,,NA,NA,3,1
+2605,Jonathan Burtt,,NA,NA,3,1
+2606,P Burtt,,NA,NA,3,1
+2607,Edward North Buxton,,NA,NA,3,1
+2608,James Cadbury,,NA,NA,3,1
+2610,John M Candler,,NA,NA,3,1
+2611,Edward Carroll,,NA,NA,3,1
+2612,Joseph Cash,,NA,NA,3,1
+2613,Newman Cash,,NA,NA,3,1
+2614,William Cash,,NA,NA,3,1
+2615,R D Catchpool,,NA,NA,3,1
+2616,Thomas Catchpool,,NA,NA,3,1
+2617,Thomas Chalk,,NA,NA,3,1
+2618,Elizabeth Charelton,,NA,NA,3,1
+2619,James Charleton,,NA,NA,3,1
+2620,Robert Charleton,,NA,NA,3,1
+2621,Richard Christy,,NA,NA,3,1
+2622,Cyrus Clark,,NA,NA,3,1
+2623,James Clark (2),,NA,NA,3,1
+2624,Joseph Clark,,NA,NA,3,1
+2625,W S Clark,,NA,NA,3,1
+2626,George Cook,,NA,NA,3,1
+2627,J H Cotterell,,NA,NA,3,1
+2628,Elliott Cresson,,NA,NA,3,1
+2629,W D Crewdson,,NA,NA,3,1
+2630,Ann Cropper,,NA,NA,3,1
+2631,James Cropper,,NA,NA,3,1
+2632,John Cropper,,NA,NA,3,1
+2633,Joseph Crosfield,,NA,NA,3,1
+2634,William Crosfield,,NA,NA,3,1
+2635,Jeremiah Cross,,NA,NA,3,1
+2636,Martha Cross,,NA,NA,3,1
+2637,Edward A Crouch,,NA,NA,3,1
+2638,Abraham Crowley,,NA,NA,3,1
+2639,Frederick Crowley,,NA,NA,3,1
+2640,J Cudworth,,NA,NA,3,1
+2641,Mary Cudworth,,NA,NA,3,1
+2642,William Cudworth,,NA,NA,3,1
+2643,Lucy Darby,,NA,NA,3,1
+2644,Richard Day,,NA,NA,3,1
+2645,William Dent,,NA,NA,3,1
+2646,Barnard Dickinson,,NA,NA,3,1
+2647,Elizabeth G Dimsdale,,NA,NA,3,1
+2648,J Doubleday,,NA,NA,3,1
+2649,R Doubleday,,NA,NA,3,1
+2650,Joseph Eaton,,NA,NA,3,1
+2651,Thomas Emmott,,NA,NA,3,1
+2652,Mary Exton,,NA,NA,3,1
+2653,William Exton,,NA,NA,3,1
+2654,Abraham Fisher,,NA,NA,3,1
+2656,Rachel Fowler,,NA,NA,3,1
+2657,Thomas Fowler,,NA,NA,3,1
+2658,Alfred L Fox,,NA,NA,3,1
+2659,Francis E Fox,,NA,NA,3,1
+2660,Frederick H Fox,,NA,NA,3,1
+2661,J G Fox,,NA,NA,3,1
+2662,R Barclay Fox,,NA,NA,3,1
+2663,Philip Frith,,NA,NA,3,1
+2664,Frederick Fryer,,NA,NA,3,1
+2665,John Gayner,,NA,NA,3,1
+2667,Deborah Gibson,,NA,NA,3,1
+2668,E Gilkes,,NA,NA,3,1
+2669,Charles Gillett,,NA,NA,3,1
+2670,Jonathan Gillett,,NA,NA,3,1
+2672,Burwood Godlee,,NA,NA,3,1
+2673,Alexander Grace,,NA,NA,3,1
+2675,Anna Gurney,,NA,NA,3,1
+2676,Edmund Gurney,,NA,NA,3,1
+2677,Henry E Gurney,,NA,NA,3,1
+2679,John Gurney,,NA,NA,3,1
+2680,Samuel Gurney,,NA,NA,3,1
+2683,Daniel P Hack,,NA,NA,3,1
+2684,John Barton Hack,,NA,NA,3,1
+2685,Cornelius Hanbury,,NA,NA,3,1
+2686,Cornelius x Jun Hanbury,,NA,NA,3,1
+2687,Daniel Bell Hanbury,,NA,NA,3,1
+2688,Samuel Hare,,NA,NA,3,1
+2689,Charles L Harford,,NA,NA,3,1
+2690,John Harford,,NA,NA,3,1
+2691,Summers Harford,,NA,NA,3,1
+2692,William Hargreaves,,NA,NA,3,1
+2693,John Harlock,,NA,NA,3,1
+2694,Theodore Harris,,NA,NA,3,1
+2696,Gray Hester,,NA,NA,3,1
+2697,M A Hewitson,,NA,NA,3,1
+2698,Henry Hipsley,,NA,NA,3,1
+2699,John Hodgkin,,NA,NA,3,1
+2700,J Holdsworth,,NA,NA,3,1
+2701,Richard Holdsworth,,NA,NA,3,1
+2702,G B Holmes,,NA,NA,3,1
+2704,S Horman-Fisher,,NA,NA,3,1
+2705,Robert Horne,,NA,NA,3,1
+2706,John Horniman,,NA,NA,3,1
+2707,Charles Horsnaill,,NA,NA,3,1
+2708,W C Horsnaill,,NA,NA,3,1
+2709,Sarah Hotham,,NA,NA,3,1
+2710,Luke Howard,,NA,NA,3,1
+2711,William Howitt,,NA,NA,3,1
+2712,Rachel Hubbert,,NA,NA,3,1
+2713,Joseph Hudson,,NA,NA,3,1
+2714,John Huntley,,NA,NA,3,1
+2715,Joseph Huntley,,NA,NA,3,1
+2716,Martha Hutchinson,,NA,NA,3,1
+2717,R Impey,,NA,NA,3,1
+2718,Edward James,,NA,NA,3,1
+2719,A Janson,,NA,NA,3,1
+2720,William Janson,,NA,NA,3,1
+2721,Andrew Johnston,,NA,NA,3,1
+2722,Andrew & Jun Johnston,,NA,NA,3,1
+2724,John Jowett,,NA,NA,3,1
+2726,W D King,,NA,NA,3,1
+2727,J H Knight,,NA,NA,3,1
+2728,T Knott,,NA,NA,3,1
+2729,Edward A Leatham,,NA,NA,3,1
+2730,Isabella Lister,,NA,NA,3,1
+2732,Wilson Lloyd,,NA,NA,3,1
+2733,Haggar Lowe,,NA,NA,3,1
+2734,Edmund Lucas,,NA,NA,3,1
+2735,Frederick Lucas,,NA,NA,3,1
+2736,Jeffrey Lucas,,NA,NA,3,1
+2737,Martha Lucas,,NA,NA,3,1
+2738,Samuel Lucas,,NA,NA,3,1
+2739,William Jun Lucas,,NA,NA,3,1
+2740,Harford Lury,,NA,NA,3,1
+2741,J E Lury,,NA,NA,3,1
+2742,W Mann,,NA,NA,3,1
+2743,Caroline Marriage,,NA,NA,3,1
+2744,Edward Marsh,,NA,NA,3,1
+2745,Thomas William Marsh,,NA,NA,3,1
+2746,Thomas Maw,,NA,NA,3,1
+2747,Edward C May,,NA,NA,3,1
+2748,Francis May,,NA,NA,3,1
+2749,John Mayfield,,NA,NA,3,1
+2750,Josiah Merrick,,NA,NA,3,1
+2751,John Morland,,NA,NA,3,1
+2752,George L Neighbour,,NA,NA,3,1
+2753,Josiah Newman,,NA,NA,3,1
+2754,William Norris,,NA,NA,3,1
+2755,Thomas Norton,,NA,NA,3,1
+2757,William Norton,,NA,NA,3,1
+2758,William Nutter,,NA,NA,3,1
+2759,J J Packer,,NA,NA,3,1
+2760,George Palmer,,NA,NA,3,1
+2761,Reuben C Payne,,NA,NA,3,1
+2762,Arthur Pease,,NA,NA,3,1
+2763,Edward Pease,,NA,NA,3,1
+2764,Gurney Pease,,NA,NA,3,1
+2765,Henry Fell Pease,,NA,NA,3,1
+2766,John Pease,,NA,NA,3,1
+2767,John B Pease,,NA,NA,3,1
+2768,Joseph Pease,,NA,NA,3,1
+2769,Joseph Whitwell Pease,,NA,NA,3,1
+2770,Susan Pease,,NA,NA,3,1
+2771,Thomas Pease,,NA,NA,3,1
+2772,Algernon Peckover,,NA,NA,3,1
+2773,William Peckover,,NA,NA,3,1
+2774,Robert H Penney,,NA,NA,3,1
+2775,Isaac Pitt,,NA,NA,3,1
+2776,Jacob Post,,NA,NA,3,1
+2777,Joseph T Price,,NA,NA,3,1
+2778,Lydia Prideaux,,NA,NA,3,1
+2779,Samuel Priestman,,NA,NA,3,1
+2780,John Pryor,,NA,NA,3,1
+2781,G R Pumphrey,,NA,NA,3,1
+2782,W P Read,,NA,NA,3,1
+2783,Isaac Reckitt,,NA,NA,3,1
+2784,Jonathan Rees,,NA,NA,3,1
+2785,Jane Reynolds,,NA,NA,3,1
+2786,G E Richardson,,NA,NA,3,1
+2787,John Rickman,,NA,NA,3,1
+2788,Josephina Rickman,,NA,NA,3,1
+2789,Matilda Rickman,,NA,NA,3,1
+2790,Priscilla Rickman,,NA,NA,3,1
+2791,R Rickman,,NA,NA,3,1
+2792,R P Rickman,,NA,NA,3,1
+2793,Isaac Robson,,NA,NA,3,1
+2794,J S Robson,,NA,NA,3,1
+2795,Joseph Rosling,,NA,NA,3,1
+2796,Samuel Rosling,,NA,NA,3,1
+2797,John Rowntree,,NA,NA,3,1
+2798,W Rowntree,,NA,NA,3,1
+2799,Sarah Rundell,,NA,NA,3,1
+2800,John F Rutter,,NA,NA,3,1
+2801,Samuel Rutter,,NA,NA,3,1
+2802,E Sayce,,NA,NA,3,1
+2803,Hannah Scarr,,NA,NA,3,1
+2804,F Seebohm,,NA,NA,3,1
+2805,John R Seekings,,NA,NA,3,1
+2806,James Sessions,,NA,NA,3,1
+2807,Lydia Sessions,,NA,NA,3,1
+2808,Robert Sessions,,NA,NA,3,1
+2809,Abraham Sewell,,NA,NA,3,1
+2810,E F Sewell,,NA,NA,3,1
+2811,Joseph Sewell,,NA,NA,3,1
+2812,Phillip Sewell,,NA,NA,3,1
+2813,Joseph Sharples,,NA,NA,3,1
+2814,John T Shewell,,NA,NA,3,1
+2815,Thomas Short,,NA,NA,3,1
+2816,W Dillwyn Sims,,NA,NA,3,1
+2817,W Skinner,,NA,NA,3,1
+2818,Bartholomew Smith,,NA,NA,3,1
+2819,George Smithson,,NA,NA,3,1
+2820,E P Southall,,NA,NA,3,1
+2821,Sarah Southall,,NA,NA,3,1
+2823,J M Sparkes,,NA,NA,3,1
+2824,H Squire,,NA,NA,3,1
+2825,John Stansfield,,NA,NA,3,1
+2826,Joseph Sterry,,NA,NA,3,1
+2827,Sarah Sterry,,NA,NA,3,1
+2828,J L Stevens,,NA,NA,3,1
+2829,Charles Sturge,,NA,NA,3,1
+2830,Edmund Sturge,,NA,NA,3,1
+2831,George Sturge,,NA,NA,3,1
+2832,H J Sturge,,NA,NA,3,1
+2833,Samuel Sturge,,NA,NA,3,1
+2834,Thomas M Sturge,,NA,NA,3,1
+2835,Walter Sturge,,NA,NA,3,1
+2836,Jemima Swan,,NA,NA,3,1
+2837,William Tanner,,NA,NA,3,1
+2838,W Tatum,,NA,NA,3,1
+2839,Edward Thomas,,NA,NA,3,1
+2840,George Thomas,,NA,NA,3,1
+2841,Samuel Thompson,,NA,NA,3,1
+2842,Fielden Thorpe,,NA,NA,3,1
+2843,E O Tindale,,NA,NA,3,1
+2844,Robert Tindall,,NA,NA,3,1
+2845,Joshua Treffry,,NA,NA,3,1
+2846,Nathaniel Tregellis,,NA,NA,3,1
+2847,Elizabeth Tuckett,,NA,NA,3,1
+2849,Francis Tuckett,,NA,NA,3,1
+2850,P Debell Tuckett,,NA,NA,3,1
+2853,D Tuke,,NA,NA,3,1
+2854,J H Tuke,,NA,NA,3,1
+2856,Samuel Tuke,,NA,NA,3,1
+2857,Ann Tweedy,,NA,NA,3,1
+2858,R Tweedy,,NA,NA,3,1
+2859,William Tweedy,,NA,NA,3,1
+2860,Richard Veale,,NA,NA,3,1
+2861,William Veale,,NA,NA,3,1
+2862,John Wadge,,NA,NA,3,1
+2863,F J Walker,,NA,NA,3,1
+2864,Marriage Wallis,,NA,NA,3,1
+2865,Charles B Warner,,NA,NA,3,1
+2866,Septimus Warner,,NA,NA,3,1
+2867,Lucy Westcombe,,NA,NA,3,1
+2868,Thomas Westcombe,,NA,NA,3,1
+2869,Benjamin Wheeler,,NA,NA,3,1
+2870,Frederick Wheeler,,NA,NA,3,1
+2871,Samuel Wheeler,,NA,NA,3,1
+2872,John Whiting,,NA,NA,3,1
+2873,John Wiblin,,NA,NA,3,1
+2874,Caleb Williams,,NA,NA,3,1
+2875,John E Wilson,,NA,NA,3,1
+2876,Joshua Wilson,,NA,NA,3,1
+2877,F Woodhead,,NA,NA,3,1
+2878,W Woolston,,NA,NA,3,1
+2879,Francis Wright,,NA,NA,3,1
+2880,S W Wright,,NA,NA,3,1

@@ -1,0 +1,696 @@
+﻿"person_id","Name","religion_id","religion_name","ceda_id","ceda_name","person_ceda_first_year","person_ceda_last_year"
+2233,William Spicer Wood,1,Quaker,2,APS,1864,1867
+2233,William Spicer Wood,1,Quaker,4,ASL,1863,1871
+2233,William Spicer Wood,1,Quaker,6,AI,1863,1871
+2211,William Wilson,1,Quaker,2,APS,1838,1865
+2211,William Wilson,1,Quaker,4,ASL,1865,1866
+2208,James Wilson,1,Quaker,2,APS,1862,1867
+2208,James Wilson,1,Quaker,4,ASL,1865,1865
+2108,E T Wakefield,1,Quaker,2,APS,1853,1864
+2108,E T Wakefield,1,Quaker,4,ASL,1865,1868
+2108,E T Wakefield,1,Quaker,7,HOD,"",""
+1744,John Ross,1,Quaker,2,APS,1839,1852
+1744,John Ross,1,Quaker,7,HOD,"",""
+1725,J Robinson,1,Quaker,2,APS,1839,1840
+1725,J Robinson,1,Quaker,4,ASL,1865,1865
+1725,J Robinson,1,Quaker,7,HOD,"",""
+1216,William Horton Lloyd,1,Quaker,2,APS,1862,1862
+1216,William Horton Lloyd,1,Quaker,3,ESL,1844,1847
+1207,Joseph Lister,1,Quaker,2,APS,1851,1855
+1207,Joseph Lister,1,Quaker,3,ESL,1844,1847
+1207,Joseph Lister,1,Quaker,7,HOD,"",""
+1021,Jonathan Hutchinson,1,Quaker,2,APS,1857,1866
+1021,Jonathan Hutchinson,1,Quaker,4,ASL,1863,1871
+1021,Jonathan Hutchinson,1,Quaker,6,AI,1863,1871
+979,William Holmes,1,Quaker,2,APS,1840,1867
+979,William Holmes,1,Quaker,4,ASL,1865,1869
+967,Thomas (1) Hodgkin,1,Quaker,1,QCA,1839,1847
+967,Thomas (1) Hodgkin,1,Quaker,2,APS,1838,1866
+967,Thomas (1) Hodgkin,1,Quaker,3,ESL,1844,1862
+967,Thomas (1) Hodgkin,1,Quaker,7,HOD,"",""
+967,Thomas (1) Hodgkin,1,Quaker,7,HOD,"",""
+853,John Henry Gurney,1,Quaker,2,APS,1851,1860
+853,John Henry Gurney,1,Quaker,3,ESL,1860,1867
+776,George Stacey Gibson,1,Quaker,2,APS,1851,1863
+776,George Stacey Gibson,1,Quaker,4,ASL,1864,1866
+732,Charles Henry Fox,1,Quaker,2,APS,1838,1852
+732,Charles Henry Fox,1,Quaker,3,ESL,1861,1871
+732,Charles Henry Fox,1,Quaker,6,AI,1861,1871
+731,William Fowler,1,Quaker,2,APS,1860,1867
+731,William Fowler,1,Quaker,3,ESL,1851,1851
+730,Robert Nicholas Fowler,1,Quaker,2,APS,1851,1867
+730,Robert Nicholas Fowler,1,Quaker,3,ESL,1851,1871
+730,Robert Nicholas Fowler,1,Quaker,6,AI,1851,1871
+730,Robert Nicholas Fowler,1,Quaker,7,HOD,"",""
+600,James T J Doyle,1,Quaker,2,APS,1839,1840
+600,James T J Doyle,1,Quaker,4,ASL,1865,1868
+523,David Dale,1,Quaker,2,APS,1864,1865
+523,David Dale,1,Quaker,3,ESL,1860,1863
+503,Henry Crowley,1,Quaker,2,APS,1851,1855
+503,Henry Crowley,1,Quaker,4,ASL,1864,1871
+503,Henry Crowley,1,Quaker,6,AI,1864,1871
+448,x Collier,1,Quaker,2,APS,1860,1867
+448,x Collier,1,Quaker,3,ESL,1844,1844
+419,William Clay,1,Quaker,2,APS,1839,1868
+419,William Clay,1,Quaker,3,ESL,1861,1868
+403,Henry Christy,1,Quaker,2,APS,1840,1865
+403,Henry Christy,1,Quaker,3,ESL,1854,1865
+403,Henry Christy,1,Quaker,7,HOD,"",""
+322,Charles Buxton,1,Quaker,2,APS,1851,1867
+322,Charles Buxton,1,Quaker,4,ASL,1864,1866
+303,William Bull,1,Quaker,2,APS,1854,1854
+303,William Bull,1,Quaker,4,ASL,1867,1871
+303,William Bull,1,Quaker,6,AI,1867,1871
+249,Antonio Brady,1,Quaker,2,APS,1861,1863
+249,Antonio Brady,1,Quaker,4,ASL,1864,1871
+249,Antonio Brady,1,Quaker,6,AI,1864,1871
+151,James Bell,1,Quaker,2,APS,1847,1862
+151,James Bell,1,Quaker,3,ESL,1852,1862
+81,James (1) Backhouse,1,Quaker,2,APS,1851,1867
+81,James (1) Backhouse,1,Quaker,3,ESL,1869,1869
+81,James (1) Backhouse,1,Quaker,7,HOD,"",""
+81,James (1) Backhouse,1,Quaker,7,HOD,"",""
+80,Edward Backhouse,1,Quaker,2,APS,1839,1867
+80,Edward Backhouse,1,Quaker,3,ESL,1870,1871
+80,Edward Backhouse,1,Quaker,6,AI,1870,1871
+27,S  Stafford Allen,1,Quaker,2,APS,1861,1867
+27,S  Stafford Allen,1,Quaker,4,ASL,1863,1870
+23,William Aldam,1,Quaker,2,APS,1838,1848
+23,William Aldam,1,Quaker,3,ESL,1844,1848
+2261,Arthur Albright,1,Quaker,2,APS,1861,1867
+2262,Rachel Albright,1,Quaker,2,APS,1860,1867
+2263,William Albright,1,Quaker,2,APS,1852,1860
+2264,William Jun Aldam,1,Quaker,2,APS,1838,1851
+2265,Frederick Alexander,1,Quaker,2,APS,1839,1840
+2266,Samuel Allen,1,Quaker,2,APS,1851,1864
+2268,John Arch,1,Quaker,2,APS,1852,1854
+2270,R Arthington,1,Quaker,2,APS,1855,1862
+2271,R Jun Arthington,1,Quaker,2,APS,1860,1862
+2273,C Ashby,1,Quaker,2,APS,1860,1860
+2274,T Jun Ashby,1,Quaker,2,APS,1861,1862
+2275,Thomas Ashby,1,Quaker,2,APS,1861,1867
+2276,Thomas Jun Ashby,1,Quaker,2,APS,1865,1865
+2277,Catherine Backhouse,1,Quaker,2,APS,1851,1861
+2280,Jonathan Backhouse,1,Quaker,2,APS,1838,1851
+2280,Jonathan Backhouse,1,Quaker,7,HOD,"",""
+2282,S Baker,1,Quaker,2,APS,1839,1840
+2285,Robert Barclay,1,Quaker,2,APS,1838,1855
+2286,Richard Barrington,1,Quaker,2,APS,1864,1867
+2288,Edward Beck,1,Quaker,2,APS,1838,1859
+2289,Eliza Bell,1,Quaker,2,APS,1851,1867
+2290,Frederick J Bell,1,Quaker,2,APS,1851,1857
+2291,S S Bell,1,Quaker,2,APS,1857,1866
+2292,Samuel Bewley,1,Quaker,2,APS,1866,1867
+2293,x Biffin,1,Quaker,2,APS,1861,1861
+2294,J Binyon,1,Quaker,2,APS,1856,1857
+2295,E L Birkbeck,1,Quaker,2,APS,1866,1866
+2296,H Birkbeck,1,Quaker,2,APS,1860,1860
+2298,W Blaine,1,Quaker,2,APS,1861,1862
+2299,Elizabeth Bowley,1,Quaker,2,APS,1860,1867
+2300,Henry Brady,1,Quaker,2,APS,1866,1867
+2301,Charles L Braithwaite,1,Quaker,2,APS,1866,1866
+2302,L Braithwaite,1,Quaker,2,APS,1860,1860
+2303,Isaac Brown,1,Quaker,2,APS,1839,1867
+2304,Joshua Brown,1,Quaker,2,APS,1860,1867
+2305,Lydia Brown,1,Quaker,2,APS,1862,1867
+2306,Sarah Burgess,1,Quaker,2,APS,1866,1867
+2307,Thomas Burgess,1,Quaker,2,APS,1860,1861
+2309,Thomas Fowell Buxton,1,Quaker,2,APS,1838,1867
+2309,Thomas Fowell Buxton,1,Quaker,7,HOD,"",""
+2309,Thomas Fowell Buxton,1,Quaker,7,HOD,"",""
+2310,W Catchpool,1,Quaker,2,APS,1855,1859
+2311,x Charleton,1,Quaker,2,APS,1860,1860
+2312,Samuel Clark,1,Quaker,2,APS,1839,1840
+2313,W Clemes,1,Quaker,2,APS,1853,1854
+2314,C Clothier,1,Quaker,2,APS,1860,1860
+2315,Joseph Cooper,1,Quaker,2,APS,1851,1867
+2316,George Crosfield,1,Quaker,2,APS,1838,1838
+2317,Joseph Crosland,1,Quaker,2,APS,1866,1867
+2318,A Crowley,1,Quaker,2,APS,1855,1863
+2321,A Dale,1,Quaker,2,APS,1861,1861
+2322,Elizabeth S Dawes,1,Quaker,2,APS,1867,1867
+2324,John Dodshon,1,Quaker,2,APS,1860,1867
+2325,Daniel Doncaster,1,Quaker,2,APS,1866,1867
+2326,Elizabeth Dyer,1,Quaker,2,APS,1860,1867
+2327,R Dymond,1,Quaker,2,APS,1862,1862
+2329,William Dyson,1,Quaker,2,APS,1864,1865
+2331,A Ellis,1,Quaker,2,APS,1860,1862
+2332,Thomas Evans,1,Quaker,2,APS,1860,1865
+2333,Ann Everett,1,Quaker,2,APS,1839,1861
+2334,Joseph Farden,1,Quaker,2,APS,1851,1866
+2335,John Fell,1,Quaker,2,APS,1852,1852
+2336,Mary Fell,1,Quaker,2,APS,1840,1840
+2337,S H Fisher,1,Quaker,2,APS,1855,1855
+2338,Caleb Fletcher,1,Quaker,2,APS,1854,1865
+2339,Martha Fletcher,1,Quaker,2,APS,1854,1855
+2340,John Ford,1,Quaker,2,APS,1854,1857
+2341,George Fox,1,Quaker,2,APS,1862,1867
+2342,Henry Fox,1,Quaker,2,APS,1862,1867
+2344,Robert Were Fox,1,Quaker,2,APS,1838,1867
+2346,x Fox,1,Quaker,2,APS,1861,1861
+2347,W Gayner,1,Quaker,2,APS,1855,1855
+2348,Joseph Gibbens,1,Quaker,2,APS,1860,1864
+2349,Ann Gibson,1,Quaker,2,APS,1860,1865
+2351,Francis Gibson,1,Quaker,2,APS,1840,1861
+2352,F  E Gibson,1,Quaker,2,APS,1860,1861
+2353,W G Gibson,1,Quaker,2,APS,1862,1862
+2353,W G Gibson,1,Quaker,7,HOD,"",""
+2354,T Gill,1,Quaker,2,APS,1861,1862
+2355,J Gillett,1,Quaker,2,APS,1863,1863
+2356,John Gillett,1,Quaker,2,APS,1860,1863
+2357,J Gilpin,1,Quaker,2,APS,1860,1862
+2358,James Gingell,1,Quaker,2,APS,1860,1862
+2359,John Good,1,Quaker,2,APS,1861,1867
+2360,Josiah Grace,1,Quaker,2,APS,1860,1861
+2361,Thomas Graham,1,Quaker,2,APS,1851,1858
+2362,John Green,1,Quaker,2,APS,1860,1863
+2363,T Gregory,1,Quaker,2,APS,1860,1862
+2364,G Grimshaw,1,Quaker,2,APS,1861,1862
+2365,x Hadfield,1,Quaker,2,APS,1864,1867
+2365,x Hadfield,1,Quaker,7,HOD,"",""
+2366,Isaac Hadwen,1,Quaker,2,APS,1852,1865
+2367,Robert Harding,1,Quaker,2,APS,1861,1867
+2368,Henry Harris,1,Quaker,2,APS,1861,1867
+2369,Lydia Harris,1,Quaker,2,APS,1840,1862
+2370,Thomas Harvey,1,Quaker,2,APS,1852,1867
+2370,Thomas Harvey,1,Quaker,7,HOD,"",""
+2371,George Head,1,Quaker,2,APS,1838,1865
+2372,Sarah Head,1,Quaker,2,APS,1859,1867
+2373,H Headley,1,Quaker,2,APS,1860,1860
+2374,W Hewitson,1,Quaker,2,APS,1860,1860
+2375,Charles Hicks,1,Quaker,2,APS,1862,1867
+2376,Elizabeth Hills,1,Quaker,2,APS,1863,1867
+2377,James Hills,1,Quaker,2,APS,1861,1861
+2378,John Hills,1,Quaker,2,APS,1853,1864
+2380,Gurney Hoare,1,Quaker,2,APS,1838,1840
+2381,Maria Hooper,1,Quaker,2,APS,1860,1862
+2382,J Hopkins,1,Quaker,2,APS,1839,1860
+2383,Rebecca Hopkins,1,Quaker,2,APS,1860,1867
+2384,Mary Horsnail,1,Quaker,2,APS,1851,1857
+2385,Elizabeth Howard (2),1,Quaker,2,APS,1860,1867
+2386,Elizabeth Howard,1,Quaker,2,APS,1851,1865
+2387,Thomas Hughes,1,Quaker,2,APS,1867,1867
+2387,Thomas Hughes,1,Quaker,7,HOD,"",""
+2388,Henry Hunt,1,Quaker,2,APS,1838,1861
+2389,T Hunt,1,Quaker,2,APS,1862,1862
+2390,J Hurnard,1,Quaker,2,APS,1860,1861
+2391,John C Isaac,1,Quaker,2,APS,1855,1867
+2392,John James,1,Quaker,2,APS,1860,1860
+2393,Charles Janson,1,Quaker,2,APS,1861,1866
+2394,Samuel Jesper,1,Quaker,2,APS,1851,1852
+2395,Benjamin Jowett (2),1,Quaker,2,APS,1852,1867
+2396,John Jun Jowett,1,Quaker,2,APS,1851,1851
+2397,Robert Jowett (2),1,Quaker,2,APS,1852,1862
+2398,John King,1,Quaker,2,APS,1860,1862
+2399,Samuel King,1,Quaker,2,APS,1860,1867
+2400,Thomas King,1,Quaker,2,APS,1838,1840
+2401,Alfred Kitching,1,Quaker,2,APS,1860,1866
+2402,C Knight,1,Quaker,2,APS,1839,1839
+2403,John Lee,1,Quaker,2,APS,1851,1865
+2404,x Leitch,1,Quaker,2,APS,1847,1849
+2406,Thomas Letchmore,1,Quaker,2,APS,1860,1860
+2407,Thomas x Jun Letchmore,1,Quaker,2,APS,1860,1860
+2408,Thomas Letchworth,1,Quaker,2,APS,1862,1867
+2409,Thomas Jun Letchworth,1,Quaker,2,APS,1864,1866
+2410,Thomas x Jun Letchworth,1,Quaker,2,APS,1862,1865
+2411,S Lloyd,1,Quaker,2,APS,1865,1865
+2412,Edward Lucas,1,Quaker,2,APS,1852,1867
+2413,Rebecca Lucas,1,Quaker,2,APS,1851,1867
+2414,Thomas Marriage,1,Quaker,2,APS,1861,1862
+2415,John Marsh,1,Quaker,2,APS,1860,1867
+2416,R Marsh,1,Quaker,2,APS,1860,1861
+2417,William Matthews,1,Quaker,2,APS,1862,1866
+2418,William Mattravers,1,Quaker,2,APS,1839,1840
+2419,D Miller,1,Quaker,2,APS,1853,1859
+2420,John Morrison,1,Quaker,2,APS,1839,1851
+2421,E Neave,1,Quaker,2,APS,1861,1861
+2423,Mary Overend,1,Quaker,2,APS,1851,1855
+2424,W J Palmer,1,Quaker,2,APS,1862,1866
+2425,J Pears,1,Quaker,2,APS,1839,1851
+2427,Edward Priestman (2),1,Quaker,2,APS,1866,1866
+2428,John Priestman,1,Quaker,2,APS,1852,1862
+2429,James Ransome,1,Quaker,2,APS,1839,1862
+2430,Robert Ransome,1,Quaker,2,APS,1839,1865
+2431,William Rathbone,1,Quaker,2,APS,1839,1867
+2432,J Jun Read,1,Quaker,2,APS,1839,1840
+2433,Edward Richardson,1,Quaker,2,APS,1839,1861
+2434,Henry Richardson,1,Quaker,2,APS,1860,1867
+2435,W Richardson,1,Quaker,2,APS,1860,1861
+2437,R M Rickman,1,Quaker,2,APS,1862,1862
+2438,S Rickman,1,Quaker,2,APS,1838,1838
+2438,S Rickman,1,Quaker,7,HOD,"",""
+2440,J Rooke,1,Quaker,2,APS,1860,1860
+2441,Alfred Rosling,1,Quaker,2,APS,1861,1866
+2442,John S Rowntree,1,Quaker,2,APS,1866,1866
+2443,Joseph Rowntree,1,Quaker,2,APS,1851,1855
+2444,Samuel Rundall,1,Quaker,2,APS,1839,1839
+2445,Henry Russell,1,Quaker,2,APS,1851,1853
+2446,Joseph Sams,1,Quaker,2,APS,1838,1855
+2447,J A Sanders,1,Quaker,2,APS,1861,1861
+2448,Mary Sansom,1,Quaker,2,APS,1855,1855
+2449,Micheal Scatterthwaite,1,Quaker,2,APS,1861,1861
+2450,S Scatterthwaite,1,Quaker,2,APS,1861,1862
+2452,Benjamin Seebohm,1,Quaker,2,APS,1865,1866
+2453,William Seebohm,1,Quaker,2,APS,1839,1861
+2454,Charles Sessions,1,Quaker,2,APS,1859,1866
+2457,Robert Simpson,1,Quaker,2,APS,1860,1867
+2458,Alfred Smith,1,Quaker,2,APS,1862,1862
+2459,Edward Smith,1,Quaker,2,APS,1862,1865
+2460,Richard Smith,1,Quaker,2,APS,1857,1867
+2460,Richard Smith,1,Quaker,7,HOD,"",""
+2461,Ann Snowden,1,Quaker,2,APS,1865,1867
+2462,C Southall,1,Quaker,2,APS,1861,1861
+2463,William Southall,1,Quaker,2,APS,1862,1866
+2464,William Sparkes,1,Quaker,2,APS,1861,1867
+2465,Joseph F Spence,1,Quaker,2,APS,1854,1867
+2466,L Squire,1,Quaker,2,APS,1839,1840
+2467,Mary Steevens,1,Quaker,2,APS,1861,1861
+2468,Henry Sterry,1,Quaker,2,APS,1851,1867
+2469,Richard Sterry,1,Quaker,2,APS,1851,1865
+2470,John Stevens,1,Quaker,2,APS,1839,1840
+2471,Joseph Sturge (Mrs),1,Quaker,2,APS,1838,1866
+2472,Sarah Styles,1,Quaker,2,APS,1866,1866
+2473,George N Tatham,1,Quaker,2,APS,1851,1852
+2474,Mary Ann Tatham,1,Quaker,2,APS,1851,1867
+2475,Edward Taylor,1,Quaker,2,APS,1861,1865
+2476,F Taylor,1,Quaker,2,APS,1861,1861
+2478,H Taylor,1,Quaker,2,APS,1861,1861
+2479,A Thistlethwaite,1,Quaker,2,APS,1860,1860
+2480,F J Thompson,1,Quaker,2,APS,1860,1867
+2481,Josiah Thompson,1,Quaker,2,APS,1861,1862
+2482,Thomas Thompson,1,Quaker,2,APS,1862,1862
+2483,W Thompson,1,Quaker,2,APS,1860,1862
+2483,W Thompson,1,Quaker,7,HOD,"",""
+2485,George Treffry,1,Quaker,2,APS,1860,1867
+2486,Frederick Tuckett,1,Quaker,2,APS,1851,1854
+2486,Frederick Tuckett,1,Quaker,7,HOD,"",""
+2486,Frederick Tuckett,1,Quaker,7,HOD,"",""
+2488,W Tuke,1,Quaker,2,APS,1860,1860
+2489,Thomas Turner,1,Quaker,2,APS,1862,1867
+2490,James E Veale,1,Quaker,2,APS,1851,1867
+2491,Jonathan Walker,1,Quaker,2,APS,1860,1867
+2492,Ann Wallis,1,Quaker,2,APS,1851,1867
+2493,John Warner,1,Quaker,2,APS,1839,1840
+2494,Alfred Waterhouse,1,Quaker,2,APS,1861,1867
+2495,Mary Waterhouse,1,Quaker,2,APS,1852,1852
+2496,R Waterhouse,1,Quaker,2,APS,1861,1862
+2497,Thomas Wedmore,1,Quaker,2,APS,1861,1864
+2498,James Wells,1,Quaker,2,APS,1861,1861
+2499,Daniel Wheeler,1,Quaker,2,APS,1839,1839
+2500,W Whiting,1,Quaker,2,APS,1861,1861
+2501,John Jun Williams,1,Quaker,2,APS,1838,1838
+2502,W R Williams,1,Quaker,2,APS,1860,1860
+2503,Charles Wilson,1,Quaker,2,APS,1867,1867
+2504,George Wilson,1,Quaker,2,APS,1861,1867
+2505,Isaac Wilson,1,Quaker,2,APS,1838,1840
+2506,Joseph Wilson,1,Quaker,2,APS,1839,1839
+2507,Rebecca Wilson,1,Quaker,2,APS,1839,1861
+2508,H Wise,1,Quaker,2,APS,1839,1840
+2509,William Woods,1,Quaker,2,APS,1865,1865
+2510,Louisa Wright,1,Quaker,2,APS,1862,1867
+2511,James Bowden,1,Quaker,1,QCA,1842,1847
+2512,William Nash,1,Quaker,1,QCA,1842,1847
+2513,Joseph Sturge,1,Quaker,1,QCA,1842,1847
+2513,Joseph Sturge,1,Quaker,7,HOD,"",""
+2514,William Jun Grimshaw,1,Quaker,1,QCA,1840,1847
+2515,Henry Knight,1,Quaker,1,QCA,1840,1847
+2515,Henry Knight,1,Quaker,2,APS,1852,1858
+2516,Edward Paull,1,Quaker,1,QCA,1840,1847
+2517,Robert Jun Alsop,1,Quaker,1,QCA,1837,1847
+2517,Robert Jun Alsop,1,Quaker,7,HOD,"",""
+2518,Abram Rawlinson Barclay,1,Quaker,1,QCA,1837,1839
+2519,John Barclay,1,Quaker,1,QCA,1837,1839
+2520,Richard Barrett,1,Quaker,1,QCA,1837,1839
+2521,John Thomas Barry,1,Quaker,1,QCA,1837,1847
+2521,John Thomas Barry,1,Quaker,2,APS,1852,1853
+2522,Peter Bedford,1,Quaker,1,QCA,1837,1847
+2522,Peter Bedford,1,Quaker,2,APS,1860,1860
+2522,Peter Bedford,1,Quaker,7,HOD,"",""
+2523,John Bell,1,Quaker,1,QCA,1837,1839
+2523,John Bell,1,Quaker,2,APS,1838,1840
+2524,Thomas Christy,1,Quaker,1,QCA,1837,1839
+2524,Thomas Christy,1,Quaker,2,APS,1839,1840
+2525,Samuel Darton,1,Quaker,1,QCA,1837,1839
+2526,Josiah Forster,1,Quaker,1,QCA,1837,1847
+2526,Josiah Forster,1,Quaker,2,APS,1838,1867
+2526,Josiah Forster,1,Quaker,7,HOD,"",""
+2526,Josiah Forster,1,Quaker,7,HOD,"",""
+2527,Robert Forster,1,Quaker,1,QCA,1837,1847
+2527,Robert Forster,1,Quaker,2,APS,1860,1867
+2528,William Forster,1,Quaker,1,QCA,1837,1847
+2528,William Forster,1,Quaker,2,APS,1838,1840
+2528,William Forster,1,Quaker,7,HOD,"",""
+2529,Joseph Talwin Foster,1,Quaker,1,QCA,1837,1847
+2530,John Hamilton,1,Quaker,1,QCA,1837,1839
+2532,Edwd Harris,1,Quaker,1,QCA,1837,1847
+2534,Geo Holmes,1,Quaker,1,QCA,1837,1839
+2535,Robert Howard,1,Quaker,1,QCA,1837,1839
+2535,Robert Howard,1,Quaker,2,APS,1838,1840
+2535,Robert Howard,1,Quaker,7,HOD,"",""
+2535,Robert Howard,1,Quaker,7,HOD,"",""
+2536,John Kitching,1,Quaker,1,QCA,1837,1839
+2536,John Kitching,1,Quaker,2,APS,1860,1866
+2538,Joseph Neatby,1,Quaker,1,QCA,1837,1847
+2538,Joseph Neatby,1,Quaker,2,APS,1851,1852
+2540,John Sanderson,1,Quaker,1,QCA,1837,1847
+2540,John Sanderson,1,Quaker,2,APS,1838,1840
+2541,Joseph Shewell,1,Quaker,1,QCA,1837,1839
+2541,Joseph Shewell,1,Quaker,2,APS,1840,1867
+2542,George Stacey,1,Quaker,1,QCA,1837,1847
+2543, Joseph Storrs,1,Quaker,1,QCA,1837,1847
+2544,John M Albright,1,Quaker,2,APS,1860,1867
+2545,G W Alexander,1,Quaker,2,APS,1851,1867
+2546,Henry Alexander,1,Quaker,2,APS,1860,1866
+2547,R D Alexander,1,Quaker,2,APS,1839,1860
+2547,R D Alexander,1,Quaker,7,HOD,"",""
+2548,Thomas Allis,1,Quaker,2,APS,1856,1867
+2549,John D Appleton,1,Quaker,2,APS,1864,1867
+2550,Caroline Armistead,1,Quaker,2,APS,1861,1865
+2551,Joseph Armistead,1,Quaker,2,APS,1861,1864
+2552,Edward Ash,1,Quaker,2,APS,1839,1860
+2553,Alfred Backhouse,1,Quaker,2,APS,1860,1867
+2554,Edmund Backhouse,1,Quaker,2,APS,1861,1867
+2555,Edward Jun Backhouse,1,Quaker,2,APS,1851,1855
+2557,James Jun Backhouse,1,Quaker,2,APS,1863,1867
+2558,John Church Backhouse,1,Quaker,2,APS,1852,1852
+2559,J E Baker,1,Quaker,2,APS,1861,1867
+2560,James Baker,1,Quaker,2,APS,1861,1867
+2561,A P Balkwill,1,Quaker,2,APS,1862,1862
+2562,William Ball,1,Quaker,2,APS,1840,1866
+2563,Eliza Barclay,1,Quaker,2,APS,1851,1866
+2565,J Gurney Barclay,1,Quaker,2,APS,1852,1852
+2565,J Gurney Barclay,1,Quaker,7,HOD,"",""
+2567,Jonathan Barrett,1,Quaker,2,APS,1860,1861
+2568,R Barrett,1,Quaker,2,APS,1853,1860
+2569,R C Barrow,1,Quaker,2,APS,1860,1864
+2571,S Barter,1,Quaker,2,APS,1861,1862
+2572,John D Bassett,1,Quaker,2,APS,1851,1867
+2573,John Baynes,1,Quaker,2,APS,1838,1838
+2574,John Beaumont,1,Quaker,2,APS,1839,1860
+2575,Rebecca Beaumont,1,Quaker,2,APS,1860,1866
+2576,William Beaumont,1,Quaker,2,APS,1860,1867
+2577,Samuel Beck,1,Quaker,2,APS,1861,1866
+2578,Deborah Beesley,1,Quaker,2,APS,1860,1867
+2579,Paul Bevan,1,Quaker,2,APS,1860,1867
+2580,Robert Bevan,1,Quaker,2,APS,1851,1854
+2581,Martha A Binyon,1,Quaker,2,APS,1866,1867
+2582,Thomas Binyon,1,Quaker,2,APS,1851,1860
+2583,S Birchall,1,Quaker,2,APS,1861,1862
+2584,Thomas Blain,1,Quaker,2,APS,1865,1867
+2585,J Blunsom,1,Quaker,2,APS,1861,1865
+2586,W Bott,1,Quaker,2,APS,1862,1862
+2587,Christopher Bowley,1,Quaker,2,APS,1838,1862
+2588,W C Bowley,1,Quaker,2,APS,1860,1862
+2589,Edwin Bracher,1,Quaker,2,APS,1861,1866
+2590,James Bracher,1,Quaker,2,APS,1861,1861
+2591,Lucy Bradshaw,1,Quaker,2,APS,1860,1861
+2592,G S Brady,1,Quaker,2,APS,1861,1861
+2593,Joseph B Braithwaite,1,Quaker,2,APS,1866,1867
+2593,Joseph B Braithwaite,1,Quaker,7,HOD,"",""
+2594,S Braithwaite,1,Quaker,2,APS,1862,1862
+2595,Charles Brewin,1,Quaker,2,APS,1840,1840
+2596,Robert Brewin,1,Quaker,2,APS,1860,1867
+2597,Thomas Brewin,1,Quaker,2,APS,1860,1867
+2598,William Brewin,1,Quaker,2,APS,1860,1867
+2599,Francis Brown,1,Quaker,2,APS,1861,1867
+2600,Gopsill Brown,1,Quaker,2,APS,1860,1860
+2601,W W Brown,1,Quaker,2,APS,1861,1866
+2602,J F Burgess,1,Quaker,2,APS,1860,1861
+2603,Wilson Burgess,1,Quaker,2,APS,1852,1852
+2604,Henry Burlingham,1,Quaker,2,APS,1861,1867
+2605,Jonathan Burtt,1,Quaker,2,APS,1847,1867
+2606,P Burtt,1,Quaker,2,APS,1861,1861
+2607,Edward North Buxton,1,Quaker,2,APS,1838,1855
+2607,Edward North Buxton,1,Quaker,7,HOD,"",""
+2608,James Cadbury,1,Quaker,2,APS,1838,1867
+2610,John M Candler,1,Quaker,2,APS,1839,1867
+2611,Edward Carroll,1,Quaker,2,APS,1865,1865
+2611,Edward Carroll,1,Quaker,7,HOD,"",""
+2612,Joseph Cash,1,Quaker,2,APS,1863,1867
+2613,Newman Cash,1,Quaker,2,APS,1838,1838
+2614,William Cash,1,Quaker,2,APS,1839,1840
+2615,R D Catchpool,1,Quaker,2,APS,1860,1867
+2616,Thomas Catchpool,1,Quaker,2,APS,1838,1855
+2617,Thomas Chalk,1,Quaker,2,APS,1839,1840
+2618,Elizabeth Charelton,1,Quaker,2,APS,1861,1867
+2619,James Charleton,1,Quaker,2,APS,1839,1839
+2620,Robert Charleton,1,Quaker,2,APS,1856,1867
+2621,Richard Christy,1,Quaker,2,APS,1840,1866
+2622,Cyrus Clark,1,Quaker,2,APS,1861,1861
+2623,James Clark (2),1,Quaker,2,APS,1860,1866
+2624,Joseph Clark,1,Quaker,2,APS,1860,1866
+2625,W S Clark,1,Quaker,2,APS,1861,1866
+2626,George Cook,1,Quaker,2,APS,1866,1866
+2627,J H Cotterell,1,Quaker,2,APS,1862,1862
+2628,Elliott Cresson,1,Quaker,2,APS,1839,1852
+2628,Elliott Cresson,1,Quaker,7,HOD,"",""
+2628,Elliott Cresson,1,Quaker,7,HOD,"",""
+2629,W D Crewdson,1,Quaker,2,APS,1838,1840
+2630,Ann Cropper,1,Quaker,2,APS,1861,1867
+2631,James Cropper,1,Quaker,2,APS,1866,1867
+2631,James Cropper,1,Quaker,7,HOD,"",""
+2632,John Cropper,1,Quaker,2,APS,1866,1867
+2633,Joseph Crosfield,1,Quaker,2,APS,1861,1867
+2634,William Crosfield,1,Quaker,2,APS,1861,1864
+2635,Jeremiah Cross,1,Quaker,2,APS,1861,1866
+2636,Martha Cross,1,Quaker,2,APS,1860,1860
+2637,Edward A Crouch,1,Quaker,2,APS,1857,1860
+2638,Abraham Crowley,1,Quaker,2,APS,1851,1855
+2639,Frederick Crowley,1,Quaker,2,APS,1865,1867
+2640,J Cudworth,1,Quaker,2,APS,1860,1863
+2641,Mary Cudworth,1,Quaker,2,APS,1861,1867
+2642,William Cudworth,1,Quaker,2,APS,1861,1867
+2643,Lucy Darby,1,Quaker,2,APS,1851,1855
+2644,Richard Day,1,Quaker,2,APS,1851,1851
+2645,William Dent,1,Quaker,2,APS,1851,1855
+2646,Barnard Dickinson,1,Quaker,2,APS,1851,1853
+2647,Elizabeth G Dimsdale,1,Quaker,2,APS,1867,1867
+2648,J Doubleday,1,Quaker,2,APS,1866,1866
+2649,R Doubleday,1,Quaker,2,APS,1866,1866
+2650,Joseph Eaton,1,Quaker,2,APS,1839,1858
+2651,Thomas Emmott,1,Quaker,2,APS,1866,1867
+2652,Mary Exton,1,Quaker,2,APS,1852,1860
+2653,William Exton,1,Quaker,2,APS,1851,1851
+2654,Abraham Fisher,1,Quaker,2,APS,1859,1865
+2656,Rachel Fowler,1,Quaker,2,APS,1851,1867
+2657,Thomas Fowler,1,Quaker,2,APS,1838,1851
+2658,Alfred L Fox,1,Quaker,2,APS,1867,1867
+2659,Francis E Fox,1,Quaker,2,APS,1838,1867
+2660,Frederick H Fox,1,Quaker,2,APS,1862,1867
+2661,J G Fox,1,Quaker,2,APS,1858,1858
+2662,R Barclay Fox,1,Quaker,2,APS,1851,1857
+2663,Philip Frith,1,Quaker,2,APS,1839,1840
+2664,Frederick Fryer,1,Quaker,2,APS,1861,1867
+2665,John Gayner,1,Quaker,2,APS,1865,1865
+2667,Deborah Gibson,1,Quaker,2,APS,1866,1866
+2668,E Gilkes,1,Quaker,2,APS,1861,1861
+2669,Charles Gillett,1,Quaker,2,APS,1860,1867
+2670,Jonathan Gillett,1,Quaker,2,APS,1860,1867
+2672,Burwood Godlee,1,Quaker,2,APS,1839,1867
+2672,Burwood Godlee,1,Quaker,7,HOD,"",""
+2673,Alexander Grace,1,Quaker,2,APS,1862,1867
+2675,Anna Gurney,1,Quaker,2,APS,1851,1857
+2675,Anna Gurney,1,Quaker,7,HOD,"",""
+2675,Anna Gurney,1,Quaker,7,HOD,"",""
+2676,Edmund Gurney,1,Quaker,2,APS,1851,1855
+2677,Henry E Gurney,1,Quaker,2,APS,1855,1866
+2679,John Gurney,1,Quaker,2,APS,1839,1855
+2680,Samuel Gurney,1,Quaker,2,APS,1838,1867
+2680,Samuel Gurney,1,Quaker,7,HOD,"",""
+2680,Samuel Gurney,1,Quaker,7,HOD,"",""
+2683,Daniel P Hack,1,Quaker,2,APS,1851,1867
+2684,John Barton Hack,1,Quaker,2,APS,1839,1851
+2684,John Barton Hack,1,Quaker,7,HOD,"",""
+2685,Cornelius Hanbury,1,Quaker,2,APS,1838,1867
+2686,Cornelius x Jun Hanbury,1,Quaker,2,APS,1866,1867
+2687,Daniel Bell Hanbury,1,Quaker,2,APS,1851,1867
+2688,Samuel Hare,1,Quaker,2,APS,1861,1866
+2689,Charles L Harford,1,Quaker,2,APS,1838,1855
+2690,John Harford,1,Quaker,2,APS,1838,1851
+2691,Summers Harford,1,Quaker,2,APS,1838,1855
+2692,William Hargreaves,1,Quaker,2,APS,1860,1867
+2693,John Harlock,1,Quaker,2,APS,1860,1867
+2694,Theodore Harris,1,Quaker,2,APS,1862,1867
+2696,Gray Hester,1,Quaker,2,APS,1861,1867
+2697,M A Hewitson,1,Quaker,2,APS,1867,1867
+2698,Henry Hipsley,1,Quaker,2,APS,1862,1867
+2699,John Hodgkin,1,Quaker,2,APS,1851,1867
+2699,John Hodgkin,1,Quaker,7,HOD,"",""
+2699,John Hodgkin,1,Quaker,7,HOD,"",""
+2700,J Holdsworth,1,Quaker,2,APS,1860,1861
+2701,Richard Holdsworth,1,Quaker,2,APS,1864,1867
+2702,G B Holmes,1,Quaker,2,APS,1840,1840
+2704,S Horman-Fisher,1,Quaker,2,APS,1857,1857
+2705,Robert Horne,1,Quaker,2,APS,1860,1867
+2706,John Horniman,1,Quaker,2,APS,1860,1867
+2707,Charles Horsnaill,1,Quaker,2,APS,1860,1866
+2708,W C Horsnaill,1,Quaker,2,APS,1860,1861
+2709,Sarah Hotham,1,Quaker,2,APS,1860,1866
+2710,Luke Howard,1,Quaker,2,APS,1851,1852
+2710,Luke Howard,1,Quaker,7,HOD,"",""
+2710,Luke Howard,1,Quaker,7,HOD,"",""
+2711,William Howitt,1,Quaker,2,APS,1839,1851
+2711,William Howitt,1,Quaker,7,HOD,"",""
+2712,Rachel Hubbert,1,Quaker,2,APS,1866,1866
+2713,Joseph Hudson,1,Quaker,2,APS,1861,1861
+2714,John Huntley,1,Quaker,2,APS,1864,1866
+2715,Joseph Huntley,1,Quaker,2,APS,1860,1867
+2716,Martha Hutchinson,1,Quaker,2,APS,1839,1840
+2717,R Impey,1,Quaker,2,APS,1861,1863
+2718,Edward James,1,Quaker,2,APS,1860,1867
+2719,A Janson,1,Quaker,2,APS,1861,1861
+2720,William Janson,1,Quaker,2,APS,1852,1867
+2721,Andrew Johnston,1,Quaker,2,APS,1838,1866
+2721,Andrew Johnston,1,Quaker,7,HOD,"",""
+2722,Andrew & Jun Johnston,1,Quaker,2,APS,1861,1862
+2724,John Jowett,1,Quaker,2,APS,1860,1867
+2726,W D King,1,Quaker,2,APS,1862,1865
+2727,J H Knight,1,Quaker,2,APS,1860,1861
+2728,T Knott,1,Quaker,2,APS,1860,1860
+2729,Edward A Leatham,1,Quaker,2,APS,1851,1867
+2730,Isabella Lister,1,Quaker,2,APS,1838,1840
+2732,Wilson Lloyd,1,Quaker,2,APS,1866,1867
+2733,Haggar Lowe,1,Quaker,2,APS,1838,1867
+2734,Edmund Lucas,1,Quaker,2,APS,1851,1864
+2735,Frederick Lucas,1,Quaker,2,APS,1839,1840
+2736,Jeffrey Lucas,1,Quaker,2,APS,1840,1854
+2737,Martha Lucas,1,Quaker,2,APS,1851,1855
+2738,Samuel Lucas,1,Quaker,2,APS,1851,1867
+2739,William Jun Lucas,1,Quaker,2,APS,1839,1860
+2740,Harford Lury,1,Quaker,2,APS,1860,1865
+2741,J E Lury,1,Quaker,2,APS,1853,1867
+2742,W Mann,1,Quaker,2,APS,1860,1860
+2743,Caroline Marriage,1,Quaker,2,APS,1860,1867
+2744,Edward Marsh,1,Quaker,2,APS,1857,1867
+2745,Thomas William Marsh,1,Quaker,2,APS,1860,1867
+2746,Thomas Maw,1,Quaker,2,APS,1839,1840
+2747,Edward C May,1,Quaker,2,APS,1839,1862
+2748,Francis May,1,Quaker,2,APS,1860,1865
+2749,John Mayfield,1,Quaker,2,APS,1847,1867
+2750,Josiah Merrick,1,Quaker,2,APS,1860,1867
+2751,John Morland,1,Quaker,2,APS,1839,1867
+2752,George L Neighbour,1,Quaker,2,APS,1847,1867
+2753,Josiah Newman,1,Quaker,2,APS,1867,1867
+2754,William Norris,1,Quaker,2,APS,1860,1867
+2755,Thomas Norton,1,Quaker,2,APS,1860,1867
+2757,William Norton,1,Quaker,2,APS,1861,1867
+2758,William Nutter,1,Quaker,2,APS,1860,1866
+2759,J J Packer,1,Quaker,2,APS,1861,1862
+2760,George Palmer,1,Quaker,2,APS,1860,1867
+2761,Reuben C Payne,1,Quaker,2,APS,1860,1867
+2762,Arthur Pease,1,Quaker,2,APS,1861,1866
+2763,Edward Pease,1,Quaker,2,APS,1838,1867
+2764,Gurney Pease,1,Quaker,2,APS,1865,1866
+2765,Henry Fell Pease,1,Quaker,2,APS,1851,1867
+2766,John Pease,1,Quaker,2,APS,1851,1867
+2767,John B Pease,1,Quaker,2,APS,1852,1867
+2768,Joseph Pease,1,Quaker,2,APS,1838,1866
+2768,Joseph Pease,1,Quaker,7,HOD,"",""
+2769,Joseph Whitwell Pease,1,Quaker,2,APS,1866,1866
+2769,Joseph Whitwell Pease,1,Quaker,7,HOD,"",""
+2770,Susan Pease,1,Quaker,2,APS,1851,1851
+2771,Thomas Pease,1,Quaker,2,APS,1861,1867
+2772,Algernon Peckover,1,Quaker,2,APS,1851,1867
+2773,William Peckover,1,Quaker,2,APS,1866,1867
+2774,Robert H Penney,1,Quaker,2,APS,1866,1867
+2775,Isaac Pitt,1,Quaker,2,APS,1860,1867
+2776,Jacob Post,1,Quaker,2,APS,1839,1851
+2777,Joseph T Price,1,Quaker,2,APS,1838,1855
+2778,Lydia Prideaux,1,Quaker,2,APS,1860,1867
+2779,Samuel Priestman,1,Quaker,2,APS,1860,1865
+2780,John Pryor,1,Quaker,2,APS,1852,1852
+2781,G R Pumphrey,1,Quaker,2,APS,1862,1862
+2782,W P Read,1,Quaker,2,APS,1862,1862
+2783,Isaac Reckitt,1,Quaker,2,APS,1861,1861
+2784,Jonathan Rees,1,Quaker,2,APS,1851,1854
+2785,Jane Reynolds,1,Quaker,2,APS,1838,1855
+2786,G E Richardson,1,Quaker,2,APS,1860,1860
+2787,John Rickman,1,Quaker,2,APS,1839,1851
+2788,Josephina Rickman,1,Quaker,2,APS,1839,1851
+2789,Matilda Rickman,1,Quaker,2,APS,1851,1851
+2790,Priscilla Rickman,1,Quaker,2,APS,1840,1840
+2791,R Rickman,1,Quaker,2,APS,1838,1863
+2792,R P Rickman,1,Quaker,2,APS,1860,1865
+2793,Isaac Robson,1,Quaker,2,APS,1862,1867
+2794,J S Robson,1,Quaker,2,APS,1861,1867
+2795,Joseph Rosling,1,Quaker,2,APS,1860,1860
+2796,Samuel Rosling,1,Quaker,2,APS,1866,1867
+2797,John Rowntree,1,Quaker,2,APS,1855,1867
+2798,W Rowntree,1,Quaker,2,APS,1860,1860
+2799,Sarah Rundell,1,Quaker,2,APS,1851,1856
+2800,John F Rutter,1,Quaker,2,APS,1863,1867
+2801,Samuel Rutter,1,Quaker,2,APS,1862,1866
+2802,E Sayce,1,Quaker,2,APS,1860,1860
+2803,Hannah Scarr,1,Quaker,2,APS,1861,1866
+2804,F Seebohm,1,Quaker,2,APS,1861,1861
+2805,John R Seekings,1,Quaker,2,APS,1862,1866
+2806,James Sessions,1,Quaker,2,APS,1851,1859
+2807,Lydia Sessions,1,Quaker,2,APS,1865,1865
+2808,Robert Sessions,1,Quaker,2,APS,1861,1867
+2809,Abraham Sewell,1,Quaker,2,APS,1860,1866
+2810,E F Sewell,1,Quaker,2,APS,1860,1860
+2811,Joseph Sewell,1,Quaker,2,APS,1851,1851
+2812,Phillip Sewell,1,Quaker,2,APS,1851,1856
+2813,Joseph Sharples,1,Quaker,2,APS,1838,1867
+2814,John T Shewell,1,Quaker,2,APS,1852,1866
+2815,Thomas Short,1,Quaker,2,APS,1861,1867
+2816,W Dillwyn Sims,1,Quaker,2,APS,1851,1865
+2817,W Skinner,1,Quaker,2,APS,1861,1861
+2818,Bartholomew Smith,1,Quaker,2,APS,1861,1867
+2819,George Smithson,1,Quaker,2,APS,1865,1866
+2820,E P Southall,1,Quaker,2,APS,1838,1838
+2821,Sarah Southall,1,Quaker,2,APS,1864,1867
+2823,J M Sparkes,1,Quaker,2,APS,1861,1866
+2824,H Squire,1,Quaker,2,APS,1860,1860
+2825,John Stansfield,1,Quaker,2,APS,1860,1866
+2826,Joseph Sterry,1,Quaker,2,APS,1851,1867
+2827,Sarah Sterry,1,Quaker,2,APS,1860,1861
+2828,J L Stevens,1,Quaker,2,APS,1860,1865
+2829,Charles Sturge,1,Quaker,2,APS,1860,1862
+2830,Edmund Sturge,1,Quaker,2,APS,1860,1862
+2831,George Sturge,1,Quaker,2,APS,1867,1867
+2832,H J Sturge,1,Quaker,2,APS,1865,1867
+2833,Samuel Sturge,1,Quaker,2,APS,1851,1855
+2834,Thomas M Sturge,1,Quaker,2,APS,1838,1866
+2835,Walter Sturge,1,Quaker,2,APS,1860,1867
+2836,Jemima Swan,1,Quaker,2,APS,1862,1867
+2837,William Tanner,1,Quaker,2,APS,1860,1865
+2838,W Tatum,1,Quaker,2,APS,1860,1862
+2839,Edward Thomas,1,Quaker,2,APS,1851,1854
+2840,George Thomas,1,Quaker,2,APS,1851,1867
+2841,Samuel Thompson,1,Quaker,2,APS,1839,1840
+2842,Fielden Thorpe,1,Quaker,2,APS,1862,1867
+2843,E O Tindale,1,Quaker,2,APS,1860,1860
+2844,Robert Tindall,1,Quaker,2,APS,1839,1839
+2845,Joshua Treffry,1,Quaker,2,APS,1860,1867
+2846,Nathaniel Tregellis,1,Quaker,2,APS,1859,1867
+2847,Elizabeth Tuckett,1,Quaker,2,APS,1840,1840
+2849,Francis Tuckett,1,Quaker,2,APS,1840,1854
+2850,P Debell Tuckett,1,Quaker,2,APS,1839,1866
+2853,D Tuke,1,Quaker,2,APS,1861,1862
+2854,J H Tuke,1,Quaker,2,APS,1862,1862
+2856,Samuel Tuke,1,Quaker,2,APS,1840,1860
+2857,Ann Tweedy,1,Quaker,2,APS,1861,1867
+2858,R Tweedy,1,Quaker,2,APS,1860,1860
+2859,William Tweedy,1,Quaker,2,APS,1838,1854
+2860,Richard Veale,1,Quaker,2,APS,1852,1867
+2861,William Veale,1,Quaker,2,APS,1864,1864
+2862,John Wadge,1,Quaker,2,APS,1838,1838
+2863,F J Walker,1,Quaker,2,APS,1860,1860
+2864,Marriage Wallis,1,Quaker,2,APS,1861,1866
+2865,Charles B Warner,1,Quaker,2,APS,1851,1851
+2866,Septimus Warner,1,Quaker,2,APS,1862,1862
+2867,Lucy Westcombe,1,Quaker,2,APS,1865,1867
+2868,Thomas Westcombe,1,Quaker,2,APS,1860,1867
+2869,Benjamin Wheeler,1,Quaker,2,APS,1851,1856
+2870,Frederick Wheeler,1,Quaker,2,APS,1851,1867
+2871,Samuel Wheeler,1,Quaker,2,APS,1852,1854
+2872,John Whiting,1,Quaker,2,APS,1862,1867
+2873,John Wiblin,1,Quaker,2,APS,1861,1867
+2874,Caleb Williams,1,Quaker,2,APS,1854,1867
+2875,John E Wilson,1,Quaker,2,APS,1860,1867
+2876,Joshua Wilson,1,Quaker,2,APS,1860,1860
+2877,F Woodhead,1,Quaker,2,APS,1861,1862
+2878,W Woolston,1,Quaker,2,APS,1861,1861
+2879,Francis Wright,1,Quaker,2,APS,1838,1838
+2880,S W Wright,1,Quaker,2,APS,1861,1861
